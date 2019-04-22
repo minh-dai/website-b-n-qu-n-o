@@ -1,9 +1,3 @@
-<%-- 
-    Document   : banner
-    Created on : May 10, 2016, 7:34:47 PM
-    Author     : TUNGDUONG
---%>
-
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
 <html>

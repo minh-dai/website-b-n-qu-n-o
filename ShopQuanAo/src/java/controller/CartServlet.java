@@ -16,10 +16,6 @@ import model.Cart;
 import model.Item;
 import model.Product;
 
-/**
- *
- * @author TUNGDUONG
- */
 public class CartServlet extends HttpServlet {
     
     private final ProductDAO productDAO = new ProductDAO();

@@ -1,4 +1,3 @@
-
 <%@page import="model.Category"%>
 <%@page import="java.util.ArrayList"%>
 <%@page import="dao.CategoryDAO"%>

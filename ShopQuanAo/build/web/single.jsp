@@ -1,9 +1,3 @@
-<%-- 
-    Document   : detail
-    Created on : 11-May-2016, 11:19:08 PM
-    Author     : TUNGDUONG
---%>
-
 <%@page import="model.Product"%>
 <%@page import="dao.ProductDAO"%>
 <%@page contentType="text/html" pageEncoding="UTF-8"%>

@@ -1,9 +1,3 @@
-<%-- 
-    Document   : footer
-    Created on : May 10, 2016, 7:28:22 PM
-    Author     : TUNGDUONG
---%>
-
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
 <html>

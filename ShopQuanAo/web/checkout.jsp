@@ -1,9 +1,3 @@
-<%-- 
-    Document   : checkout
-    Created on : 15-May-2016, 1:16:28 PM
-    Author     : TUNGDUONG
---%>
-
 <%@page import="model.Users"%>
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>

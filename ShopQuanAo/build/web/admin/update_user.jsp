@@ -1,9 +1,3 @@
-<%-- 
-    Document   : update_user
-    Created on : Apr 2, 2019, 9:54:35 PM
-    Author     : hamin
---%>
-
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
 <html>

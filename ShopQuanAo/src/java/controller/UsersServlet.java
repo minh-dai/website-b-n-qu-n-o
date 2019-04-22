@@ -16,10 +16,7 @@ import javax.servlet.http.HttpSession;
 import model.Users;
 import tools.MD5;
 
-/**
- *
- * @author TUNGDUONG
- */
+
 public class UsersServlet extends HttpServlet {
 
     UsersDAO usersDAO = new UsersDAO();

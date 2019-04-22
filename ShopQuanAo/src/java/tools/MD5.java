@@ -8,10 +8,6 @@ package tools;
 import java.security.MessageDigest;
 import java.security.NoSuchAlgorithmException;
 
-/**
- *
- * @author TUNGDUONG
- */
 public class MD5 {
 
     public static String encryption(String str) {

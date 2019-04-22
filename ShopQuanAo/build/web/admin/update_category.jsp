@@ -39,7 +39,7 @@
                             
                             <td style="float: right"><b>Tên danh mục: </b></td>
                             <td><input type="text" placeholder="<%=c.getCategoryName()%>" class="sedang" name="tenDanhMuc"><%=error%></td>
-                        </tr>
+                        </tr>                       
                         <tr><td></td><td>
                                 <input type="hidden" name="command" value="update">
                                 <input type="hidden" name="category_id" value="<%=request.getParameter("category_id")%>">

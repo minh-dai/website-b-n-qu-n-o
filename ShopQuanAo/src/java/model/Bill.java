@@ -7,10 +7,6 @@ package model;
 
 import java.sql.Timestamp;
 
-/**
- *
- * @author TUNGDUONG
- */
 public class Bill {
 
     private long billID;

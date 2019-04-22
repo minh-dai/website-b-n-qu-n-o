@@ -1,9 +1,3 @@
-<%-- 
-    Document   : manager_user
-    Created on : Apr 2, 2019, 9:49:19 PM
-    Author     : hamin
---%>
-
 <%@page import="model.Users"%>
 <%@page import="java.util.ArrayList"%>
 <%@page import="dao.UsersDAO"%>

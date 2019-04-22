@@ -23,10 +23,7 @@ import model.Item;
 import model.Users;
 import tools.SendMail;
 
-/**
- *
- * @author TUNGDUONG
- */
+
 public class CheckOutServlet extends HttpServlet {
 
     private final BillDAO billDAO = new BillDAO();

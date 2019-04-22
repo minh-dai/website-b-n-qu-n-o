@@ -1,9 +1,3 @@
-<%-- 
-    Document   : contact
-    Created on : May 10, 2016, 7:43:37 PM
-    Author     : TUNGDUONG
---%>
-
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
 <html>

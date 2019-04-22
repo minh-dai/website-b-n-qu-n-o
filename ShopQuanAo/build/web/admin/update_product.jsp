@@ -1,9 +1,3 @@
-<%-- 
-    Document   : update_product
-    Created on : Apr 1, 2019, 1:56:19 PM
-    Author     : hamin
---%>
-
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %>
 <!DOCTYPE html>

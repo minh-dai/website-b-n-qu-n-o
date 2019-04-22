@@ -1,9 +1,3 @@
-<%-- 
-    Document   : header
-    Created on : May 10, 2016, 7:28:30 PM
-    Author     : TUNGDUONG
---%>
-
 <%@page import="model.Item"%>
 <%@page import="java.util.Map"%>
 <%@page import="model.Cart"%>

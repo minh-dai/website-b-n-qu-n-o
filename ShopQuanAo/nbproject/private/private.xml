@@ -3,7 +3,62 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
+            <file>file:/C:/Users/hamin/Documents/NetBeansProjects/ShopQuanAo/web/admin/index.jsp</file>
+            <file>file:/C:/Users/hamin/Documents/NetBeansProjects/ShopQuanAo/web/footer.jsp</file>
+            <file>file:/C:/Users/hamin/Documents/NetBeansProjects/ShopQuanAo/src/java/controller/UploadServletTest.java</file>
+            <file>file:/C:/Users/hamin/Documents/NetBeansProjects/ShopQuanAo/src/java/dao/ProductDAO.java</file>
+            <file>file:/C:/Users/hamin/Documents/NetBeansProjects/ShopQuanAo/web/admin/manager_chart.jsp</file>
+            <file>file:/C:/Users/hamin/Documents/NetBeansProjects/ShopQuanAo/src/java/model/Product.java</file>
+            <file>file:/C:/Users/hamin/Documents/NetBeansProjects/ShopQuanAo/src/java/model/BillDetail.java</file>
+            <file>file:/C:/Users/hamin/Documents/NetBeansProjects/ShopQuanAo/src/java/model/Category.java</file>
+            <file>file:/C:/Users/hamin/Documents/NetBeansProjects/ShopQuanAo/web/admin/manager_category.jsp</file>
             <file>file:/C:/Users/hamin/Documents/NetBeansProjects/ShopQuanAo/web/admin/login.jsp</file>
+            <file>file:/C:/Users/hamin/Documents/NetBeansProjects/ShopQuanAo/src/java/model/Bill.java</file>
+            <file>file:/C:/Users/hamin/Documents/NetBeansProjects/ShopQuanAo/web/product.jsp</file>
+            <file>file:/C:/Users/hamin/Documents/NetBeansProjects/ShopQuanAo/web/admin/menu.jsp</file>
+            <file>file:/C:/Users/hamin/Documents/NetBeansProjects/ShopQuanAo/src/java/controller/CartServlet.java</file>
+            <file>file:/C:/Users/hamin/Documents/NetBeansProjects/ShopQuanAo/web/single.jsp</file>
+            <file>file:/C:/Users/hamin/Documents/NetBeansProjects/ShopQuanAo/src/java/tools/MD5.java</file>
+            <file>file:/C:/Users/hamin/Documents/NetBeansProjects/ShopQuanAo/web/upload.jsp</file>
+            <file>file:/C:/Users/hamin/Documents/NetBeansProjects/ShopQuanAo/src/java/dao/CategoryDAO.java</file>
+            <file>file:/C:/Users/hamin/Documents/NetBeansProjects/ShopQuanAo/web/admin/update_category.jsp</file>
+            <file>file:/C:/Users/hamin/Documents/NetBeansProjects/ShopQuanAo/src/java/controller/CheckOutServlet.java</file>
+            <file>file:/C:/Users/hamin/Documents/NetBeansProjects/ShopQuanAo/src/java/controller/CheckEmailServlet.java</file>
+            <file>file:/C:/Users/hamin/Documents/NetBeansProjects/ShopQuanAo/web/login.jsp</file>
+            <file>file:/C:/Users/hamin/Documents/NetBeansProjects/ShopQuanAo/web/admin/insert_category.jsp</file>
+            <file>file:/C:/Users/hamin/Documents/NetBeansProjects/ShopQuanAo/web/message.jsp</file>
+            <file>file:/C:/Users/hamin/Documents/NetBeansProjects/ShopQuanAo/web/checkout.jsp</file>
+            <file>file:/C:/Users/hamin/Documents/NetBeansProjects/ShopQuanAo/src/java/dao/BillDetailDAO.java</file>
+            <file>file:/C:/Users/hamin/Documents/NetBeansProjects/ShopQuanAo/src/java/model/Users.java</file>
+            <file>file:/C:/Users/hamin/Documents/NetBeansProjects/ShopQuanAo/web/admin/manager_bill.jsp</file>
+            <file>file:/C:/Users/hamin/Documents/NetBeansProjects/ShopQuanAo/src/java/model/Item.java</file>
+            <file>file:/C:/Users/hamin/Documents/NetBeansProjects/ShopQuanAo/web/admin/content.jsp</file>
+            <file>file:/C:/Users/hamin/Documents/NetBeansProjects/ShopQuanAo/src/java/controller/UsersServlet.java</file>
+            <file>file:/C:/Users/hamin/Documents/NetBeansProjects/ShopQuanAo/src/java/tools/SendMail.java</file>
+            <file>file:/C:/Users/hamin/Documents/NetBeansProjects/ShopQuanAo/web/admin/update_product.jsp</file>
+            <file>file:/C:/Users/hamin/Documents/NetBeansProjects/ShopQuanAo/web/banner.jsp</file>
+            <file>file:/C:/Users/hamin/Documents/NetBeansProjects/ShopQuanAo/src/java/controller/ChartServletTest.java</file>
+            <file>file:/C:/Users/hamin/Documents/NetBeansProjects/ShopQuanAo/src/java/dao/BillDAO.java</file>
+            <file>file:/C:/Users/hamin/Documents/NetBeansProjects/ShopQuanAo/web/header.jsp</file>
+            <file>file:/C:/Users/hamin/Documents/NetBeansProjects/ShopQuanAo/src/java/controller/UploadServlet.java</file>
+            <file>file:/C:/Users/hamin/Documents/NetBeansProjects/ShopQuanAo/src/java/dao/ChartDAO.java</file>
+            <file>file:/C:/Users/hamin/Documents/NetBeansProjects/ShopQuanAo/src/java/controller/ManagerCategoryServletTest.java</file>
+            <file>file:/C:/Users/hamin/Documents/NetBeansProjects/ShopQuanAo/src/java/model/Cart.java</file>
+            <file>file:/C:/Users/hamin/Documents/NetBeansProjects/ShopQuanAo/web/contact.jsp</file>
+            <file>file:/C:/Users/hamin/Documents/NetBeansProjects/ShopQuanAo/web/content.jsp</file>
+            <file>file:/C:/Users/hamin/Documents/NetBeansProjects/ShopQuanAo/web/admin/header.jsp</file>
+            <file>file:/C:/Users/hamin/Documents/NetBeansProjects/ShopQuanAo/src/java/controller/ManagerProductServletTest.java</file>
+            <file>file:/C:/Users/hamin/Documents/NetBeansProjects/ShopQuanAo/src/java/dao/UsersDAO.java</file>
+            <file>file:/C:/Users/hamin/Documents/NetBeansProjects/ShopQuanAo/src/java/controller/ManagerUserServletTest.java</file>
+            <file>file:/C:/Users/hamin/Documents/NetBeansProjects/ShopQuanAo/src/java/connect/DBConnect.java</file>
+            <file>file:/C:/Users/hamin/Documents/NetBeansProjects/ShopQuanAo/web/index.jsp</file>
+            <file>file:/C:/Users/hamin/Documents/NetBeansProjects/ShopQuanAo/web/register.jsp</file>
+            <file>file:/C:/Users/hamin/Documents/NetBeansProjects/ShopQuanAo/src/java/model/Value.java</file>
+            <file>file:/C:/Users/hamin/Documents/NetBeansProjects/ShopQuanAo/web/admin/insert_product.jsp</file>
+            <file>file:/C:/Users/hamin/Documents/NetBeansProjects/ShopQuanAo/web/admin/manager_user.jsp</file>
+            <file>file:/C:/Users/hamin/Documents/NetBeansProjects/ShopQuanAo/web/admin/manager_product.jsp</file>
+            <file>file:/C:/Users/hamin/Documents/NetBeansProjects/ShopQuanAo/web/admin/footer.jsp</file>
+            <file>file:/C:/Users/hamin/Documents/NetBeansProjects/ShopQuanAo/web/admin/update_user.jsp</file>
         </group>
     </open-files>
 </project-private>

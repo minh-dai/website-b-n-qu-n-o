@@ -1,4 +1,3 @@
-
 <%@page import="java.util.ArrayList"%>
 <%@page import="model.Cart"%>
 <%@page import="model.Product"%>

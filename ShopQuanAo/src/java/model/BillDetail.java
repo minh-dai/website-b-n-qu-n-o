@@ -5,10 +5,6 @@
  */
 package model;
 
-/**
- *
- * @author TUNGDUONG
- */
 public class BillDetail {
 
     private long billDetailID;
